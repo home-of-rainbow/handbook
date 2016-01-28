@@ -1,0 +1,29 @@
+{
+  "gitbook": "2.x.x",
+  "title": "葵花宝典",
+  "description": "为家长提供参考，避免走弯路，避免因为不熟悉而导致的耽搁。",
+  "language": "zh",
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    },
+    "plugins": [
+      "gitbook-plugin-betterchinese",
+      "-search",
+      "search-pro"
+    ]
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 18,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
+}
