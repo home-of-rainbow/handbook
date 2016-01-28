@@ -7,4 +7,5 @@
 * [居家护理](nursing.md)
 * [周边生活信息](living.md)
 * [彩虹之家家长会](home_of_rainbow.md)
-* [救助渠道汇总](救助渠道汇总.md)
+* 附录
+  * [救助渠道汇总](appendix/aid.md)
