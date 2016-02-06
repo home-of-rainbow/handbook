@@ -9,4 +9,6 @@
 * [彩虹之家家长会](home_of_rainbow.md)
 * [词汇表](GLOSSARY.md)
 * 附录
+  * CCCG-ALL-2015
+    * [扫描版](appendix/CCCG-ALL-2015/original.md)
   * [救助渠道汇总](appendix/aid.md)
